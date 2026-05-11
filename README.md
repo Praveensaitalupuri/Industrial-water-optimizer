@@ -35,3 +35,11 @@ pip install streamlit pandas plotly scikit-learn joblib
 
 # 4. Run the dashboard
 streamlit run app.py
+
+# 🏭 Industrial Wastewater Treatment Optimization Dashboard
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://industrial-water-optimizer-exghyb2gkjzz9juq5ezdvu.streamlit.app/)
+
+**Live Demo:** [Open Dashboard](https://industrial-water-optimizer-exghyb2gkjzz9juq5ezdvu.streamlit.app/)
+
+End-to-End Machine Learning powered web application...
